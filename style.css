@@ -24,7 +24,7 @@ h1{
 	font-size: 70px;
 	line-height: 88.5%;
 	letter-spacing: -3.5px;
-	padding-bottom: 30px;
+	padding-bottom: 5px;
 	padding-left: 30px;
 }
 h2{
@@ -95,7 +95,7 @@ h1, h2, h3, p {
 }
 
 div.Header {
-	padding-top: 110px;
+	padding-top: 130px;
 }
 div.Section {
 	padding-top: 100px;
@@ -233,7 +233,7 @@ img.card {
 		/* padding-right: 10px; */
 		}
 	div.Header {
-		padding-top: 50px;
+		padding-top: 80px;
 	}
 	div.Section {
 		padding-top: 50px;
@@ -369,7 +369,7 @@ img.card {
 		padding-bottom: 0px;
 	}
 	div.Header {
-		padding-top: 50px;
+		padding-top: 130px;
 	}
 	div.Section {
 		padding-top: 50px;
@@ -534,7 +534,7 @@ img.card {
 		font-size: 70px;
 		line-height: 88.5%;
 		letter-spacing: -3.5px;
-		padding-bottom: 30px;
+		padding-bottom: 5px;
 		padding-left: 60px;
 	}
 	h2{
@@ -574,7 +574,7 @@ img.card {
 
 	}
 	div.Header {
-		padding-top: 110px;
+		padding-top: 130px;
 	}
 	div.Section {
 		padding-top: 122px;
