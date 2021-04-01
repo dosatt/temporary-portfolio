@@ -1,0 +1,193 @@
+[x] sistemare font su mobile
+[x] rendere unselectable le immagini
+[X] sistemare il padding
+[X] sistemare la scrollbar
+[ ] spazio finale nelle schede scrolling per dare spazio
+[ ] mettere centrata la posizione della prima scheda
+[ ] sistemare caratteri su tutte le visualizzazioni // è un problema del <p> da ridurre sotto i 900
+[ ] aumentare il padding di p
+[ ] boldare tutto quello che devo boldare
+[ ] mettere il tooltip
+[ ] sistemare i css tutti
+[ ] uniformare e segnare tute le distanze tra i paragrafi
+[ ] fare footer
+[ ] ricentrare tutto
+
+
+
+------------------
+[] ricentrare il padding delle cards nella vista piccola
+[] secondo html lingua diversa
+
+
+
+Negli ultimi anni ho lavorato su diverse cose...
+come questo e queello, da questo e quell'altro
+quello che so fare
+ho guadagnato esperienze
+ho imparato a lavorare con tutto e con tutti
+
+
+Bio
+ho fatto questo e queello
+ho guadagnato esperienza
+ho imparato a lavorare con tutto e con tutti
+
+
+
+
+Per sintetizzare le mie ultime esperienze e skills, qui sotto illustro alcuni degli ultimi progetti su cui ho lavorato. Per quanto riguarda il Prodotto Industriale, dal disegno di concept e renderizzazione come nel caso della moka "Barrel" allo sviluppo effettivo di prodotti, a partire dalla disgno esecutivi, disegno CAD e produzioni del prodotto stesso. Al di là del Disegno Industriale ho avuto l'opportunità di potermi concentrare anche su altri campi, come la comunicazione e lo sviluppo di interfacce.
+
+
+
+
+
+La mia produzione spazia, nell'ambito del prodotto industriale, dallo sketching e rendering, come per la moka in rame <i>Barrel</i>, al disegno do modelli kad e di materiale di comunicazione, seguendo la vera e propria realizzazione, come si può vedere nella serie di lavabi in marmo
+
+Credo molto in questo approccio che continuerà per tutta la mia carriera e ad avere una certa indipendenza lavorativa. (Questa ricerca sarà costante per tutta la mia vita.)
+
+
+
+
+
+
+------------------English
+<body>
+
+		<!-- discarded
+
+			<div class="Options">
+				<a class="option-">•••</a>
+				<a class="option-">☀</a>
+				<a class="option-">🌙</a>
+			</div>
+
+			<p id="tooltip" class="tooltip">&nbsp; « » &nbsp; Scroll cards with mouse wheel while pressing ⇧ (shift) or with two finger swipe</p>
+
+	 -->
+
+		<div class="Header">
+			<h1>Hi,</h1>
+			<h2>I’m Edoardo Sattin,<br>I‘m an Industrial Designer based in Padua, Italy. <!-- ✏️ --> </h2>
+			<h2>⚠️ This is a temporary quick portofolio, I’ll be releasing a full version on September 1st, 2021, alongside socials.</h2>
+			<h2>Thank you for your understaning,<br>See you soon! <!--👋--></h2>
+		</div>
+
+		<div class="Section">
+			<h3>Sample Projects</h3>
+			<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+
+			<div id="ch" class="card-holder">
+
+				<div class="card card-style">
+					<div class="mask">
+						<video class="vid" width="256" autoplay muted loop playsinline>
+							<source src="Media/MODELLING.mp4">
+							</video>
+						</div>
+						<p class="card"><i>"Barrel Moka Pot"</i>&nbsp; Concept</p>
+						<p class="card card-subtitle">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout</p>
+					</div>
+
+					<!-- <div class="card card-style">
+						<div class="mask">
+							<class="vid" video width="256" autoplay muted loop playsinline>
+							<video src="Media/">
+							</video>
+						</div>
+						<p class="card"><i>"Panavista"</i>&nbsp; UI Mock-up</p>
+						<p class="card card-subtitle">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout</p>
+					</div> -->
+
+				<div class="card card-style">
+					<div class="mask">
+						<video class="vid" width="256" autoplay muted loop playsinline>
+							<source src="Media/GRAPHICS.mp4">
+						</video>
+					</div>
+					<p class="card"><i>"Kofler"</i>&nbsp; Identity Restyling</p>
+					<p class="card card-subtitle">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout</p>
+				</div>
+
+				<div class="card card-style">
+					<div class="mask">
+						<video class="vid" width="256" autoplay muted loop playsinline>
+							<source src="Media/CAD.mp4">
+							</video>
+						</div>
+						<p class="card"><i>"MarbleColors"</i>&nbsp; Washbasins</p>
+						<p class="card card-subtitle">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout</p>
+					</div>
+
+				<div class="card card-style">
+					<div class="mask">
+						<video class="vid" width="256" autoplay muted loop playsinline>
+							<source src="Media/SURF.mp4">
+						</video>
+					</div>
+					<p class="card"><i>"Surf"</i>&nbsp; Presentation Video</p>
+					<p class="card card-subtitle">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout</p>
+				</div>
+
+				<!-- <div class="card card-style">
+					<img class="card" src="BG.png" alt="">
+					<p class="card">Sample Title</p>
+					<p class="card card-subtitle">Sample Description lorem ipsum dolor sit amet lorem ipsum  dolor sit amet lorem ipsum dolor sit amet</p>
+				</div>
+
+				<div class="card card-style">
+					<img class="card" src="BG.png" alt="">
+					<p class="card">Sample Title</p>
+					<p class="card card-subtitle">Sample Description lorem ipsum dolor sit amet lorem ipsum  dolor sit amet lorem ipsum dolor sit amet</p>
+				</div>
+
+				<div class="card card-style">
+					<img class="card" src="BG.png" alt="">
+					<p class="card">Sample Title</p>
+					<p class="card card-subtitle">Sample Description lorem ipsum dolor sit amet lorem ipsum  dolor sit amet lorem ipsum dolor sit amet</p>
+				</div>
+
+				<div class="card card-style">
+					<img class="card" src="BG.png" alt="">
+					<p class="card">Sample Title</p>
+					<p class="card card-subtitle">Sample Description lorem ipsum dolor sit amet lorem ipsum  dolor sit amet lorem ipsum dolor sit amet</p>
+				</div>
+
+				<div class="card card-style">
+					<img class="card" src="BG.png" alt="">
+					<p class="card">Sample Title</p>
+					<p class="card card-subtitle">Sample Description lorem ipsum dolor sit amet lorem ipsum  dolor sit amet lorem ipsum dolor sit amet</p>
+				</div> -->
+				<div class="card-spacer card-style">
+					<!-- <h1>more projects to come</h1> -->
+				</div>
+
+			</div>
+
+			<p class="tip">*&nbsp;Scroll cards with mouse wheel while pressing ⇧ (shift) or with a 2 fingers swipe</p>
+		</div>
+
+		<div class="Section Bottom">
+			<h3>About Me + CV</h3>
+			<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+			<!-- <p>&nbsp; &nbsp; &nbsp; &nbsp; 💼 &nbsp;Gallery Portfolio.pdf download</p> -->
+			<p class="slot" onclick="">📄&nbsp; &nbsp;CV.pdf download</p>
+		</div>
+
+		<div class="Footer">
+
+			<!-- <p>
+				<br><br><br>
+				<svg width="36" height="30" viewBox="0 0 48 40" fill="none">
+				<path d="M17.8735 15.8481L10.806 11.8433L3.79325 7.62052C2.68344 6.95225 3.15721 5.24703 4.45268 5.24703H10.806H37.8172C38.8663 5.24703 39.8901 4.92433 40.7495 4.32269L42.9628 2.77344M29.0017 23.9757L44.5407 34.7206C45.5718 35.4336 45.0672 37.0504 43.8136 37.0504H29.0017M29.0017 15.8481L10.806 29.0827L3.03047 34.7382C2.02927 35.4664 2.54438 37.0504 3.78241 37.0504H10.806H17.679C18.3833 37.0504 19.0713 36.8389 19.6539 36.4432L23.8803 33.5733" stroke="#868686" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+				</svg>
+			</p>
+			<p style="font-size:12px">Edoardo sattin</p>
+			<p style="font-size:12px">2020</p> -->
+
+			<p style="font-size:18px"><br><br><br><br><br><b>Edoardo Sattin,</b><br>mail: e.sattin.online@gmail.com<br><br><br>2021</p>
+			<!-- <p><br>📧 e.sattin.online@gmail.com</p> -->
+			<!-- <p><br><br>ITA|ENG</p> -->
+		</div>
+
+</body>
