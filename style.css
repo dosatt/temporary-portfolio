@@ -114,7 +114,7 @@ div.Bottom {
 .card-style {
 	border-radius: 22px;
 	border: 1px solid #FFFFFF;
-	box-shadow: 0px 0px 18px #D5DCE0;
+	box-shadow: 0px 0px 18px #D8DBDD;
 }
 p.card {
 	width: 300px;
@@ -146,6 +146,7 @@ p.slot {
 	/* box-shadow: 0px 3px 8px #DADADA; */
 	border: 1px solid #D5D6D6;
 	border-radius: 10px;
+	text-align: center;
 }
 p.slot:hover{
 	border: 1px solid #7BAFEC;
@@ -164,7 +165,7 @@ img.card {
 	width: 256px;
 	height: 440px;
 	overflow: hidden;
-	filter: drop-shadow(0px 0px 2px #DDDDDD);
+	box-shadow: 0px 0px 2px #DDDDDD;
 }
 
 .Footer {
@@ -214,7 +215,7 @@ img.card {
 @media only screen and (max-width: 321px) {
 
 	h1{
-		font-size: 60px;
+		font-size: 40px;
 		padding-left: 22px;
 	}
 	h2{
@@ -223,6 +224,7 @@ img.card {
 		padding-left: 27px;
 		font-weight: normal;
 		letter-spacing: -0.5px;
+		padding-top: 5px;
 	}
 	h3{
 		font-size: 28px;
@@ -273,7 +275,7 @@ img.card {
 	.card-style {
 		border-radius: 18px;
 		border: 1px solid #FFFFFF;
-		box-shadow: 0px 0px 18px #D5DCE0;
+		box-shadow: 0px 0px 18px #D8DBDD;
 	}
 	p.card {
 		font-weight: 600;
@@ -332,7 +334,7 @@ img.card {
 		.card-style {
 			border-radius: 18px;
 			border: 1px solid #FFFFFF;
-			box-shadow: 0px 0px 18px #D5DCE0;
+			box-shadow: 0px 0px 18px #D8DBDD;
 		}
 
 	.Footer{
@@ -349,7 +351,7 @@ img.card {
 @media only screen and (min-width: 321px) {
 
 	h1{
-		font-size: 60px;
+		font-size: 50px;
 		padding-left: 25px;
 	}
 	h2{
@@ -358,6 +360,7 @@ img.card {
 		padding-left: 29px;
 		font-weight: normal;
 		letter-spacing: -0.5px;
+		padding-top: 10px;
 	}
 	h3{
 		font-size: 37px;
@@ -404,7 +407,7 @@ img.card {
 	.card-style {
 		border-radius: 18px;
 		border: 1px solid #FFFFFF;
-		box-shadow: 0px 0px 18px #D5DCE0;
+		box-shadow: 0px 0px 18px #D8DBDD;
 	}
 	p.card {
 		width: 236px;
@@ -454,7 +457,7 @@ img.card {
 	.card-style {
 		border-radius: 18px;
 		border: 1px solid #FFFFFF;
-		box-shadow: 0px 0px 18px #D5DCE0;
+		box-shadow: 0px 0px 18px #D8DBDD;
 	}
 
 	.Footer{
@@ -528,7 +531,7 @@ img.card {
 	.card-style {
 		border-radius: 18px;
 		border: 1px solid #FFFFFF;
-		box-shadow: 0px 0px 18px #D5DCE0;
+		box-shadow: 0px 0px 18px #D8DBDD;
 	}
 	p.slot {
 		margin-top: 30px;
@@ -628,7 +631,7 @@ img.card {
 	.card-style {
 		border-radius: 18px;
 		border: 1px solid #FFFFFF;
-		box-shadow: 0px 0px 18px #D5DCE0;
+		box-shadow: 0px 0px 18px #D8DBDD;
 	}
 	p.card {
 		font-weight: 600;
@@ -719,7 +722,7 @@ img.card {
 	.card-style {
 		border-radius: 22px;
 		border: 1px solid #FFFFFF;
-		box-shadow: 0px 0px 18px #D5DCE0;
+		box-shadow: 0px 0px 18px #D8DBDD;
 	}
 	.card-holder {
 		display: flex;
