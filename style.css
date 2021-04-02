@@ -788,7 +788,6 @@ img.card {
 	}
 }
 
-
 /* other unused breakpoints */
 /* 840 -> 1440*/
 		/* @media only screen and (min-width: 840px) {
@@ -803,3 +802,6 @@ img.card {
 		  95%  {bottom: 0px;opacity: 100%}
 		  100% {bottom: -65px;opacity: 0%}
 		} */
+
+
+		/* test */
