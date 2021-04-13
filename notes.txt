@@ -6,8 +6,9 @@ CV:
 [ ] sistemare tracking
 
 Sito:
-[ ] pulire codice
-[troppo complesso] Sistemare tracking l'h3 su chrome mac
+[ done!] pulire codice
+[ troppo complesso ] Sistemare tracking l'h3 su chrome mac
+[ fatto, volendo fare una versione ancora maggiore ] convertito videos
 
 
 [ ]centrare il tutto quando diventa max
