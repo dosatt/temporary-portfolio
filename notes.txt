@@ -1,3 +1,24 @@
+CV:
+[ ] correzione testo ita ENG
+[ ] foto?
+[ ] link al Portfolio
+[ ] testi da finire mancanti
+[ ] sistemare tracking
+
+Sito:
+[ ] pulire codice
+[troppo complesso] Sistemare tracking l'h3 su chrome mac
+
+
+[ ]centrare il tutto quando diventa max
+
+
+
+
+
+
+-------------------------------------------------------
+
 [x] sistemare font su mobile
 [x] rendere unselectable le immagini
 [X] sistemare il padding

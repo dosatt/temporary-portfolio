@@ -44,7 +44,7 @@ h3{
 	font-style: normal;
 	font-size: 50px;
 	line-height: 88.5%;
-	letter-spacing: -3px;
+	letter-spacing: -0.05em;
 	padding-bottom: 30px;
 	padding-left: 28px;
 }
@@ -231,7 +231,7 @@ img.card {
 	h3{
 		font-size: 28px;
 		padding-left: 25px;
-		letter-spacing: -2px;
+		letter-spacing: -0.05em;
 	}
 	p,a {
 		font-size: 15px;
@@ -367,7 +367,7 @@ img.card {
 	h3{
 		font-size: 37px;
 		padding-left: 28px;
-		letter-spacing: -3px;
+		letter-spacing: -0.05em;
 	}
 	p,a {
 		font-size: 20px;
@@ -580,7 +580,7 @@ img.card {
 		font-style: normal;
 		font-size: 50px;
 		line-height: 88.5%;
-		letter-spacing: -3px;
+		letter-spacing: -0.05em;
 		padding-bottom: 30px;
 		padding-left: 58px;
 	}
@@ -712,7 +712,7 @@ img.card {
 	}
 	h3{
 		padding-left: 358px;
-		letter-spacing: -3px;
+		letter-spacing: -0.05em;
 	}
 	p {
 		font-size: 25px;
@@ -787,21 +787,3 @@ img.card {
 		margin-left: 360px;
 	}
 }
-
-/* other unused breakpoints */
-/* 840 -> 1440*/
-		/* @media only screen and (min-width: 840px) {
-		} */
-/* 1921 -> 2880+ */
-		/* @media only screen and (min-width: 1920px) {
-		} */
-
-	/* @keyframes reveal {
-		  0%   {bottom: -65px; opacity: 0%}
-		  5%  {bottom: 0px;opacity: 100%}
-		  95%  {bottom: 0px;opacity: 100%}
-		  100% {bottom: -65px;opacity: 0%}
-		} */
-
-
-		/* test */
