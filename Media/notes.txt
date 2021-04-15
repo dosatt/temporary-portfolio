@@ -1,9 +1,10 @@
 CV:
-[ ] correzione testo ita ENG
-[ ] foto?
-[ ] link al Portfolio
-[ ] testi da finire mancanti
-[ ] sistemare tracking
+[ done ] correzione testo ita ENG
+[ ? ] foto?
+[ ] date
+[ done ] link al Portfolio
+[ done ] testi da finire mancanti
+[ done ] sistemare tracking
 
 Sito:
 [ done!] pulire codice
