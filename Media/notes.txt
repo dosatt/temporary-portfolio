@@ -1,7 +1,7 @@
 CV:
 [ done ] correzione testo ita ENG
 [ ? ] foto?
-[ ] date
+[ done ] date
 [ done ] link al Portfolio
 [ done ] testi da finire mancanti
 [ done ] sistemare tracking
