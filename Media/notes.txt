@@ -1,6 +1,7 @@
 CV:
+[ ] dividere la sezione software in workflows (?)
 [ done ] correzione testo ita ENG
-[ ? ] foto?
+[ done ] foto?
 [ done ] date
 [ done ] link al Portfolio
 [ done ] testi da finire mancanti
