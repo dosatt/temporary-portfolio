@@ -142,9 +142,9 @@ p.slot {
 	text-align: center;
 }
 p.slot:hover{
-	border: 1px solid #7BAFEC;
+	border: 1.5px solid #7BAFEC;
 	cursor: pointer;
-}
+	}
 img.card {
 	width: 320px;
 	height: 550px;
