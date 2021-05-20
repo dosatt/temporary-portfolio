@@ -104,7 +104,7 @@ div.Bottom {
 	margin: 0px 20px 20px 0px;
 	width: 320px;
 	background-color: #F6F5F5;
-	padding: 25px;
+	padding: 15px 15px 17px 15px;
 }
 .card-style {
 	border-radius: 14px;
@@ -241,7 +241,7 @@ img.card {
 		margin: 0px 20px 15px 0px;
 		width: 256px;
 		background-color: #F6F5F5;
-		padding: 15px;
+		padding: 15px 15px 17px 15px;
 	}
 	.card-spacer {
 		width: 1000px;
@@ -368,7 +368,7 @@ img.card {
 		margin: 0px 20px 15px 0px;
 		width: 256px;
 		background-color: #F6F5F5;
-		padding: 15px;
+		padding: 15px 15px 17px 15px;
 	}
 	.card-spacer {
 		width: 1000px;
@@ -589,7 +589,7 @@ img.card {
 		flex: none;
 		margin: 0px 35px 20px 0px;
 		width: 256px;
-		padding: 15px;
+		padding: 15px 15px 17px 15px;
 		}
 	.card-spacer {
 			border-radius: none;
